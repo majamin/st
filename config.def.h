@@ -6,6 +6,11 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "mono:pixelsize=18:antialias=true:autohint=true";
+static char *font2[] = {
+	"JoyPixels:pixelsize=18:antialias=true:autohint=true",
+	"Symbols Nerd Font:pixelsize=18:antialias=true:autohint=true",
+	/*add more here*/
+};
 static int borderpx = 2;
 
 /*
