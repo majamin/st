@@ -133,8 +133,8 @@ static const char *colorname[] = {
  */
 unsigned int defaultfg = 7;
 unsigned int defaultbg = 258;
-static unsigned int defaultcs = 11;
-static unsigned int defaultrcs = 11;
+static unsigned int defaultcs = 12;
+static unsigned int defaultrcs = 12;
 unsigned int selectionbg = 257;
 unsigned int selectionfg = 7;
 /* If 0 use selectionfg as foreground in order to have a uniform foreground-color */
