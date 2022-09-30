@@ -135,8 +135,8 @@ unsigned int defaultfg = 7;
 unsigned int defaultbg = 257;
 static unsigned int defaultcs = 12;
 static unsigned int defaultrcs = 12;
-unsigned int selectionbg = 257;
-unsigned int selectionfg = 7;
+unsigned int selectionbg = 7;
+unsigned int selectionfg = 0;
 /* If 0 use selectionfg as foreground in order to have a uniform foreground-color */
 /* Else if 1 keep original foreground-color of each cell => more colors :) */
 static int ignoreselfg = 0;
