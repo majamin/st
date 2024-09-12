@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka Nerd Font:pixelsize=22:antialias=true:autohint=true";
+static char *font = "JetBrainsMono Nerd Font:style:medium:size=12";
 static int borderpx = 24;
 
 /*
